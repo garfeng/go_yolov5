@@ -1,6 +1,6 @@
 # Use YoloV5 with Golang. CUDA avaiable on Windows
 
-`YoloV5`, `GoCV`, `Golang`, `CUDA`, `Windows`
+`YoloV5` `GoCV` `Golang` `CUDA` `Windows`
 
 ## Dependences
 
@@ -11,7 +11,7 @@
 
 1. Download the code
 ``` shell
-git clone https://github.com/garfeng/go_yolov5
+git clone https://github.com/garfeng/go_yolov5.git
 ```
 
 2. Build
@@ -23,7 +23,7 @@ admin@pc MINGW64 /c/opencv/cvglue
 $ tree
 .
 ├── bin
-│   ├── gocv.dll
+│   ├── gocv.dll 
 │   ├── gocv_contrib.dll
 │   └── gocv_cuda.dll
 └── lib
